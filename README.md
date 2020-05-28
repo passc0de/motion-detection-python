@@ -53,6 +53,8 @@ streaming video.
 
 * git clone https://github.com/passc0de/motion-detection-python
 
+* cd motion-detection-python/
+
 ## Usage
 
 * python motion_detection.py
