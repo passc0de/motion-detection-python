@@ -44,8 +44,18 @@ streaming video.
 ## Dependencies
 
 * OpenCV 2
+  * pip install opencv-python
 
 * imutils
+  * pip install imutils
+
+## Installation
+
+* git clone https://github.com/passc0de/motion-detection-python
+
+## Usage
+
+* python motion_detection.py
 
 ## Output
 
